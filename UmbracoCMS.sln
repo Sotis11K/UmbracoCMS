@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoCMS", "UmbracoCMS\UmbracoCMS.csproj", "{E6A9D9A6-E2E4-4B0D-8D8F-816B7FDBDC1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A9D9A6-E2E4-4B0D-8D8F-816B7FDBDC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A9D9A6-E2E4-4B0D-8D8F-816B7FDBDC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A9D9A6-E2E4-4B0D-8D8F-816B7FDBDC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A9D9A6-E2E4-4B0D-8D8F-816B7FDBDC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EBF5FC-3B21-4C52-BB29-6A95B7C4319C}
+	EndGlobalSection
+EndGlobal
